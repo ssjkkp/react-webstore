@@ -1,1 +1,1 @@
-Simple webstore created with react
+Simple webstore created with react(work in progress...)
